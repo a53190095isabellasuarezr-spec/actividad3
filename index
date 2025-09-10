@@ -1,0 +1,53 @@
+<!DOCTYPE html>  
+
+<html> 
+
+<head> 
+      <style>
+    body {
+      background-color: #F2F5BF; /* Color de fondo */
+      color: #78672C; /* Color del texto */
+      font-family: Libre Baskervalle, sans-serif;
+    }
+</style>
+
+    <title>Mercadotecnia</title>
+</head>
+
+<body> 
+<p> La carrera de Mercadotecnia forma profesionales capaces de analizar mercados, 
+crear estrategias y promocionar productos o servicios de manera efectiva. Permite identificar necesidades del consumidor, 
+diseñar soluciones y utilizar herramientas digitales y tradicionales para lograr resultados comerciales.</p>
+
+<h1> Estrategias de mercado</h1>
+<p>Incluye el diseño de planes para posicionar productos y servicios, atraer clientes y aumentar ventas, 
+combinando creatividad con análisis de datos y comportamiento del consumidor. </p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Futc.mx%2Foferta-educativa%2Flicenciatura%2Flicenciatura-ejecutiva-en-mercadotecnia-atr&psig=AOvVaw39FUUgagz0XiNiUgRNHitd&ust=1756483951419000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMDtrOPyrY8DFQAAAAAdAAAAABAO">
+<h2>Investigación y análisis </h2>
+<p>Consiste en recolectar y analizar información sobre mercados, tendencias y competidores, 
+lo que permite tomar decisiones estratégicas fundamentadas y anticiparse a cambios en el comportamiento del consumidor. </p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fbolsadetrabajomarketing%2F&psig=AOvVaw05CUAs-4-hfbAKp8aMEMEL&ust=1756484007692000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCl9vzyrY8DFQAAAAAdAAAAABAL">
+<h3>Comunicación y publicidad </h3>
+<p>Implica la creación de campañas publicitarias y de comunicación utilizando medios digitales,
+ redes sociales y publicidad tradicional, enfocándose en conectar con el público objetivo. </p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.improma.com%2F5-trabajos-para-el-licenciado-en-mercadotecnia%2F&psig=AOvVaw05CUAs-4-hfbAKp8aMEMEL&ust=1756484007692000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCl9vzyrY8DFQAAAAAdAAAAABAV">
+
+<h4>Formulario</h4>
+<label for="password">¿Cuál es la función principal de un profesional en Mercadotecnia?:</label>
+<input type="password" id="password" name="password" required><br><br>
+
+<label for="password">¿En qué áreas puede trabajar un profesional de Mercadotecnia?:</label>
+<input type="password" id="password" name="password" required><br><br>
+
+<label for="password">¿Qué tipos de empresas o industrias suelen contratar a mercadólogos?:</label>
+<input type="password" id="password" name="password" required><br><br>
+
+<label for="password">¿Qué especializaciones existen dentro de la carrera de Mercadotecnia:</label>
+<input type="password" id="password" name="password" required><br><br>
+
+<label for="password">¿Qué herramientas se utilizan para analizar mercados y tendencias?:</label>
+<input type="password" id="password" name="password" required><br><br>
+</body>
+
+</html>
+
